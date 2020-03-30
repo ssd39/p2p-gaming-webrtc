@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++17 -pthread   CMakeFiles/p2p-gaming.dir/main.cpp.o CMakeFiles/p2p-gaming.dir/jsoncpp.cpp.o  -o p2p-gaming -Wl,-rpath,/home/ddl/p2p-gaming/cli/libjuice/build /usr/lib/x86_64-linux-gnu/libboost_system.so -lcurl ../libjuice/build/libjuice.so 
