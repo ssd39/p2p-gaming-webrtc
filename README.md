@@ -1,4 +1,4 @@
-# p2p-gaming-webtc
+# p2p-gaming-webrtc
 Peer to peer gaming make your local game server accessible to the world without any port forwarding or etc. webrtc will manage all. Tested on counter strike 1.6 and rise of nations
 
 Windows x86 binary available inside win-x86 folder. Which can also executable on linux enviorment using wine.
